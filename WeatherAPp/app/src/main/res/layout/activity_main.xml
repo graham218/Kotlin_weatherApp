@@ -9,6 +9,28 @@
     android:padding="25dp"
     android:background="@drawable/gradient_bg">
 
+    <RelativeLayout
+        android:id="@+id/mainContainer"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/addressContainer"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/adress"
+                android:textSize="24sp"
+                android:text="Location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            </TextView>
+        </LinearLayout>
+
+    </RelativeLayout>
 
 
 </RelativeLayout>
