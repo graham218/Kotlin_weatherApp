@@ -25,6 +25,7 @@
             <TextView
                 android:id="@+id/adress"
                 android:layout_width="wrap_content"
+                android:textColor="@color/white"
                 android:layout_height="wrap_content"
                 android:text="Location"
                 android:textSize="24sp">
@@ -34,6 +35,7 @@
             <TextView
                 android:id="@+id/updated_at"
                 android:layout_width="wrap_content"
+                android:textColor="@color/white"
                 android:layout_height="wrap_content"
                 android:text="updated at"
                 android:textSize="14sp">
@@ -50,6 +52,8 @@
                 android:id="@+id/status"
                 android:textSize="18sp"
                 android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="Clear Sky"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
