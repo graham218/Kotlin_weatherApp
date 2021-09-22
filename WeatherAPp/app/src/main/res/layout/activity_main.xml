@@ -148,6 +148,216 @@
 
                     </TextView>
                 </LinearLayout>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"></Space>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#3FC1EBF1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/sunrise">
+
+                    </ImageView>
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="5dp"></Space>
+                    <TextView
+                        android:textSize="12sp"
+                        android:text="Sunrise"
+                        android:textColor="@color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                    <TextView
+                        android:id="@+id/sunrise"
+                        android:textSize="14sp"
+                        android:textColor="@color/white"
+                        android:text="5:30am"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                </LinearLayout>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"></Space>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#3FC1EBF1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/sunrise">
+
+                    </ImageView>
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="5dp"></Space>
+                    <TextView
+                        android:textSize="12sp"
+                        android:text="Sunrise"
+                        android:textColor="@color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                    <TextView
+                        android:id="@+id/sunrise"
+                        android:textSize="14sp"
+                        android:textColor="@color/white"
+                        android:text="5:30am"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                </LinearLayout>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"></Space>
+            </LinearLayout>
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="10dp">
+
+            </Space>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#3FC1EBF1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/sunrise">
+
+                    </ImageView>
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="5dp"></Space>
+                    <TextView
+                        android:textSize="12sp"
+                        android:text="Sunrise"
+                        android:textColor="@color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                    <TextView
+                        android:id="@+id/sunrise"
+                        android:textSize="14sp"
+                        android:textColor="@color/white"
+                        android:text="5:30am"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                </LinearLayout>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"></Space>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#3FC1EBF1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/sunrise">
+
+                    </ImageView>
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="5dp"></Space>
+                    <TextView
+                        android:textSize="12sp"
+                        android:text="Sunrise"
+                        android:textColor="@color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                    <TextView
+                        android:id="@+id/sunrise"
+                        android:textSize="14sp"
+                        android:textColor="@color/white"
+                        android:text="5:30am"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                </LinearLayout>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"></Space>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#3FC1EBF1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <ImageView
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@drawable/sunrise">
+
+                    </ImageView>
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="5dp"></Space>
+                    <TextView
+                        android:textSize="12sp"
+                        android:text="Sunrise"
+                        android:textColor="@color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                    <TextView
+                        android:id="@+id/sunrise"
+                        android:textSize="14sp"
+                        android:textColor="@color/white"
+                        android:text="5:30am"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                </LinearLayout>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"></Space>
             </LinearLayout>
         </LinearLayout>
     </RelativeLayout>
