@@ -84,6 +84,9 @@
                     android:layout_width="50dp"
                     android:layout_height="wrap_content"></Space>
                 <TextView
+                    android:id="@+id/temp_max"
+                    android:text="Max Temp"
+                    android:textColor="@color/white"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content">
 
