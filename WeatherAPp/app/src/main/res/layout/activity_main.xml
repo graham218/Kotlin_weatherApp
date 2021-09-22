@@ -11,19 +11,45 @@
 
     <RelativeLayout
         android:id="@+id/mainContainer"
-        android:visibility="visible"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
         <LinearLayout
             android:id="@+id/addressContainer"
-            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/adress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Location"
+                android:textSize="24sp">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/updated_at"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="updated at"
+                android:textSize="14sp">
+
+            </TextView>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/overviewContainer"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <TextView
-                android:id="@+id/adress"
-                android:textSize="24sp"
-                android:text="Location"
+                android:id="@+id/status"
+                android:textSize="18sp"
+                android:layout_gravity="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
