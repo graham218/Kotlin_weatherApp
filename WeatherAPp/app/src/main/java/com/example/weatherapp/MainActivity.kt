@@ -13,8 +13,11 @@ import com.example.weatherapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    val CITY: String="dhaka, bd"
+    val API: String="521ae0e22dca7a1dc71169c4d4154476"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        
+        setContentView(R.layout.activity_main)
+
     }
 }
